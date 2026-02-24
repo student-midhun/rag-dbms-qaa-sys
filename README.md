@@ -1,4 +1,3 @@
-# rag-dbms-qaa-sys
 RAG-Based DBMS Question Answering System
 Overview
 This project implements a Retrieval-Augmented Generation (RAG) system for answering DBMS conceptual questions using PDF-based course materials.
