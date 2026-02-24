@@ -1,0 +1,10 @@
+    "What is ER diagram Mapping?",
+    "What is a strong entity in an ER diagram?",
+    "How is a one-to-one relationship mapped into a relational schema?",
+    "What is normalization and why is it important in DBMS?",
+    "What is functional dependency?",
+    "What are DDL, DML, and DCL commands in SQL?",
+    "What are ACID properties? Explain each property.",
+    "What is the difference between DELETE, TRUNCATE, and DROP?",
+    "List different types of keys in relational model",
+    "List different types of Relational operation"
